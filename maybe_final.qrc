@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="img">
+    <file>browse_icon.png</file>
+    <file>decoding - Resize.png</file>
+    <file>encoding - Resize.png</file>
+    <file>black panther - Resize_png.png</file>
+    <file>S.H.I.E.L.D._logo_NEW.png</file>
+    <file>blurred-bg-2_png.png</file>
+    <file>thor_png.png</file>
+    <file>bifrost_rename_(png).png</file>
+  </qresource>
+</RCC>
